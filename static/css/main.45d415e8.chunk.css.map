@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,kBAAmB,CACnB,iBAAkB,CAClB,QACF,CAEA,EACE,qBACF,CAEA,4BACE,aACF,CAFA,uBACE,aACF,CAFA,cACE,aACF","file":"main.45d415e8.chunk.css","sourcesContent":["body {\n  background: #e8e8e8;\n  font-family: 微軟正黑體;\n  margin: 0;\n}\n\n* {\n  box-sizing: border-box;\n}\n\n::placeholder {\n  color: #d0d0d0;\n}\n"]}
